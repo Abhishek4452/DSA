@@ -10,9 +10,9 @@ project 6 --// normal linked list
             // basic code of linked list.
 project 7 -- deletion from particular node
 // deletion in linked list
-project 8 --
-project 9 --
-project  10--
+project 8 --doubly linked list creation
+project 9 --insertion and deletion in doubly linked list
+project  10--circular linked list insertion and traversal
 project  11--
 project  12--
 project  13--
