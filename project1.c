@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+// stack array
 struct stack
 {
     int size;
@@ -67,3 +68,6 @@ s-> top++;
     }
     return 0;
 }
+// output
+//not empty stack
+//stack is not full now 
