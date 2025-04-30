@@ -1,6 +1,6 @@
 #include <stdio.h>
 void search()
-{
+{   //LInerSearch
     int SE; // searching element;
     int arr[6] = {12, 23, 45, 67, 90, 110};
     int flag = 0;
