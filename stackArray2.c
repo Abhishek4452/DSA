@@ -1,5 +1,6 @@
 #include<stdio.h>
 int stack[6];
+// push and pop operation 
 int top = -1;
 void push(){// for pushing the element in the array
     if(top == 5){
