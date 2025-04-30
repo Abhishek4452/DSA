@@ -8,7 +8,8 @@ project 4 -- binary search.
 project 5 -- insertion in linked list 
 project 6 --// normal linked list
             // basic code of linked list.
-project 7 --
+project 7 -- deletion from particular node
+// deletion in linked list
 project 8 --
 project 9 --
 project  10--
