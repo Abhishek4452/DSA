@@ -9,7 +9,7 @@ project 5 -- insertion in linked list
 project 6 --// normal linked list
             // basic code of linked list.
 project 7 -- deletion from particular node
-// deletion in linked list
+// deletion in linked list.
 project 8 --doubly linked list creation
 project 9 --insertion and deletion in doubly linked list
 project  10--circular linked list insertion and traversal
