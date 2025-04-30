@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 // normal linked list
+// basic code of linked list.
 struct node
 {
     int data;
