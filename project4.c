@@ -1,6 +1,6 @@
 #include <stdio.h>
 void binarySearch()
-{
+{   // binary search program
     // array data is arranged in accending order
     int arr[6] = {12, 24, 36, 48, 60, 72};
     int flag = 0;
