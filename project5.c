@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//  insertion in linked list . 
 struct node
 {
     int data;
