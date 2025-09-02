@@ -1,37 +1,21 @@
-# DSA
-DSA Concept here
-project 1 -- stack overflow, underflow and empty check
-project 2 --- push and pop opearation is performed // need to work more
+# DSA Concepts – Project List
 
-project 3-- linear search .
-project 4 -- binary search.
-project 5 -- insertion in linked list 
-project 6 --// normal linked list
-            // basic code of linked list.
-project 7 -- deletion from particular node
-// deletion in linked list.
-project 8 --doubly linked list creation
-project 9 --insertion and deletion in doubly linked list
-project  10--circular linked list insertion and traversal
-project  11--
-project  12--
-project  13--
-project  14--
-project  15--
-project  16--
-project  17--
-project  18--
-project  19-
-project  20--
-project  21--
-project  22--
+A collection of small projects to practice core Data Structures and Algorithms concepts.
 
-project  --
-project  --
-project  --
-project  --
-project  --
-project  --
-project  --
-project  --
-project  --
+## Projects
+
+1. **Stack: Overflow, Underflow, and Empty Check**
+2. **Stack: Push and Pop Operations**  
+   _(*Need to work more*)_
+3. **Linear Search Implementation**
+4. **Binary Search Implementation**
+5. **Linked List: Insertion**
+6. **Linked List: Basic Implementation**
+7. **Linked List: Deletion at a Particular Node**
+8. **Doubly Linked List: Creation**
+9. **Doubly Linked List: Insertion and Deletion**
+10. **Circular Linked List: Insertion and Traversal**
+
+---
+
+_Feel free to explore, learn, and contribute!_
